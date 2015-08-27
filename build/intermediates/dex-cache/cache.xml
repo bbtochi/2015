@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-96103876a116225be26132998e602bb0424d5ca7.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.github.AutSoft/CircularTools/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e30ab1ef328d42d87a286532c86d4bba4aa3847f">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-4e440e6c404cd2688f37b289e44f71d0597083dc.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/libs/commons-logging-1.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5043bfebc3db072ed80fbd362e7caf00e885d8ae">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/commons-logging-1.1.1-064073c2dcf1306d96404de0d9fc70ad32329256.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-c8c8c6e819e08ff380231eb594fb01192af3eb49.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/libs/google-http-client-appengine-1.20.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b6733a7f3d645040177f398f224bb085bffeb541">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/google-http-client-appengine-1.20.0-7d13540b43e62c24b08687d2f10404f82adaa36e.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/libs/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/jackson-core-2.1.3-0171ec6e0f1b82032d23c961c460e51a856ece64.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-f5cfd5f5234403a1b1d6b42980b26ec3e0b0da77.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.daimajia.easing/library/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-b0e6bf27845975855ecc48176ffb5d8d95110059.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-4e3eacf5a880d25dc44f7f3f17d4490cf1f96498.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-c0d3029b780f1f91d23b8ea411b18ffbe46fad34.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.cesarferreira.colorize/library/0.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fdf1b03bc8924e571f50dbccf0e2bda7fad4041e">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-83f1f134c5b40ba2850fb76859e0bdad5bbd48f0.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.daimajia.androidanimations/library/1.1.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-f998b9f46240de66f528bd33ed2e4e4d808d22b6.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/libs/google-http-client-gson-1.20.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9204765f39000f6109c927ac66c7963bf9c7df19">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/google-http-client-gson-1.20.0-192c6425b75f21686b0d8e12677e314629c3f005.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-4c23fee335dffbf028f7b88c26542fa8b08f5dc2.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/libs/google-http-client-jdo-1.20.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9ec7cd7351a009469cfb8df76ba11530dc27c5bc">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/google-http-client-jdo-1.20.0-286efe76cd06b008a9a4e63bec08d9c9cb0ceeb8.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.github.jd-alexander/library/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5972d2a9244bb9d4c24b162b895837a04e879e2d">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-e8ef18fb148296bfe7ac51354e92395f24d7b6b3.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.github.curioustechizen.android-ago/library/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="86c79b26b6a40ade02bf8b96b6eacebc989a8826">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-b58c0a364ab61c39c8aa3edb4d7c160718311dd6.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.afollestad/material-dialogs/0.7.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1c83e45c56a824bc54f276b2fa071f1914cceba7">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-7013ae7bd727f47b8e954621cc0e389fd6dc8200.jar" />
+    </item>
+    <item
+        jar="/home/larry/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/library-2.4.0-43e7d72b2aab967e2d17c21a5366bd80eb507085.jar" />
+    </item>
+    <item
+        jar="/home/larry/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/okio-1.4.0-3ac77c74d7e7aff9cfaeca2302271516ed928531.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/libs/google-http-client-protobuf-1.20.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d4f5cd78de4ece3bd4815074c8be817a334877d7">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/google-http-client-protobuf-1.20.0-2a3a6d4d3c59d7b3cf831786e6207eb1baf855f9.jar" />
+    </item>
+    <item
+        jar="/home/larry/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/okhttp-2.4.0-87723ba88ccee8925aa9145df26ef7a6a84fa263.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/libs/google-http-client-xml-1.20.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6f0331a9dfc5ea37fe76b8b5a19d00c8aaf5645e">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/google-http-client-xml-1.20.0-063eb64a925e6b63e2f01c7206bae74e17b0225a.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-6500155f863533264421ced54db1e7d008dd69a3.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-c2f63ab59dc65f64bf223e0a438b9c60eed0e3fb.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-16875c8294f03384e42f20831e77e36ab536683d.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/libs/google-http-client-jackson2-1.20.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/google-http-client-jackson2-1.20.0-7307e11bc8c003ce00353265e65ebab63c593030.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-3c214c94b13d5bafdad926f38a3f89c5b2de3764.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-0af76fedd376e79b4eacc67111584b804f24c94a.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.github.clans/fab/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f36ca85c9191834ee763ff73dfca1e8b1eb85ee">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-5f95efe8e4a5949a27de52a77f08d4c8eedd089d.jar" />
+    </item>
+    <item
+        jar="/home/larry/.gradle/caches/modules-2/files-2.1/com.github.sd6352051/NiftyNotification/1.2/6c2ef6394a06436ad5e1e0c71c6073749cb892a5/NiftyNotification-1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6c2ef6394a06436ad5e1e0c71c6073749cb892a5">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/NiftyNotification-1.2-55346943f737d78232c0172d41aabffe88f5dc38.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-44248925b7a05461c097c20cd08ae0994262fbe7.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/libs/httpclient-4.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1d7d28fa738bdbfe4fbd895d9486308999bdf440">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/httpclient-4.0.1-1e9f3fc8a37ea42ebddf247d2a8d52625f66ab48.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/internal_impl-22.0.0-cd8a1ec0fd7e23f99d0655542c20e7fb8e7f0e01.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/libs/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/gson-2.3.1-57ad9e0cd0c4201b441ef310f8685bdd06dc3a22.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/libs/google-http-client-android-1.20.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/google-http-client-android-1.20.0-5fbb0ba43a42f96adc61e2baafc0e7b9faa6da27.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/libs/google-http-client-jackson-1.20.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="843dd7d334a7bcc2b1d12f7b6d61594bab09d489">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/google-http-client-jackson-1.20.0-af0101992ab210043f37e753da06f33f7096ab21.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/libs/google-http-client-1.20.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/google-http-client-1.20.0-d200ac0ef8dd07d6614bbac04d2eb3f32e72601f.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-85d554fed9efcf6caa8e1dcc40e9ac851d0e9826.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-dde94c085eb033f4da9ff65d7be9475a6f825294.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-42a3922c987170d1452fd6b577b466bd01a6d720.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-ee0f485d223417af640fafb849d7ee8c9d6110b8.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-1b4d72378c9d6e95a146df274b8ebb02d9198847.jar" />
+    </item>
+    <item
+        jar="/home/larry/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/support-annotations-22.2.0-665a07465ab1ac5c17c1834419a3528fbee7c528.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.wada811/android-material-design-colors/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b1b25734aebca17ebf89eda854cd2b65bc3ff139">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-6d62adaf2efe0d9ee7967a6a88141fa5babb6ba5.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/internal_impl-22.2.0-584809c1ca96fb5d51edde7e754de7f44516861a.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/libs/httpcore-4.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e813b8722c387b22e1adccf7914729db09bcb4a9">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/httpcore-4.0.1-f3fa1c58ebb42ee769d099da8dd2903659857a7d.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-52ab4a97e8c8cf46ab610f7065d74940f85aad2b.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-cffe848853063c9606730aef0adf681d95fab740.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-2fb9c61bfad613074d072b55455a5717263f2f26.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-79b788549abd0f8cb867f36c891e3e3cf96022a4.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-d4e62c9a8926ad3be9899d4b38399efa57427a8d.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.github.rahatarmanahmed/circularprogressview/2.3.2/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5d7ea94136c556d0ce3e56cbe3ba89283c7d9392">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/debug/classes-b4c3acf0abc01baf63771514c15a0e55d8e92030.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-5feaaf43113fb1f8719f211223178527d2cc7964.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-ef70d031b340fde08f5173311586c80b1eef8ebc.jar" />
+    </item>
+    <item
+        jar="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/home/larry/AndroidStudioProjects/traffrica/app/build/intermediates/pre-dexed/release/classes-6462b24b4b81d0de4ee0a1802300bab94e028eca.jar" />
+    </item>
+
+</items>

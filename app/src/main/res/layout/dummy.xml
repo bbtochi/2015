@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <!---  -->
+    <android.support.v7.widget.CardView
+        android:id="@+id/route_info"
+        style="@style/CardView"
+        android:layout_width="400dp"
+        android:layout_height="350dp"
+        app:cardBackgroundColor="@color/c_quarter_transparent"
+        app:cardElevation="2dp"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        app:cardPreventCornerOverlap="false"
+        app:cardUseCompatPadding="true"
+        android:layout_gravity="center"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/c_green"
+            android:id="@+id/linear"
+            android:paddingBottom="12dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/c_white"
+                android:paddingTop="8dp"
+                android:paddingBottom="8dp"
+                android:id="@+id/header">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Traffic Information"
+                    android:textColor="@color/c_green"
+                    android:textSize="20sp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true"/>
+            </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor = "@color/c_white"
+            android:id = "@+id/without_traffic"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp"
+            android:layout_marginTop="10dp"
+            android:text = "Travel Time Without Traffic :"
+            android:layout_gravity="top"
+            android:layout_below="@+id/header"
+            android:textSize="16dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor = "@color/c_white"
+            android:text = "Expected Travel Time :"
+            android:layout_gravity="top"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp"
+            android:textSize="16dp"
+            android:layout_below="@id/without_traffic"
+            android:layout_marginTop="10dp"
+            android:id="@+id/with_traffic" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/expected_travel_time"
+                android:layout_alignBottom="@+id/with_traffic"
+                android:layout_toRightOf="@+id/with_traffic"
+                android:layout_toEndOf="@+id/with_traffic" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/textView3"
+                android:layout_above="@+id/with_traffic"
+                android:layout_toRightOf="@+id/expected_travel_time"
+                android:layout_toEndOf="@+id/expected_travel_time" />
+
+        </RelativeLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_marginBottom="5dp"
+            android:text="Brought to you by Traffica®"
+            android:textColor="@color/c_white"/>
+
+    </android.support.v7.widget.CardView>
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="posted heavy traffic"
+        android:id="@+id/traffic_type"
+        android:layout_below="@+id/response_ratio"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="1 / 1 user(s)"
+        android:paddingTop="10dp"
+        android:id="@+id/response_ratio"
+        android:layout_alignTop="@+id/percentage_text"
+        android:layout_alignLeft="@+id/traffic_type"
+        android:layout_alignStart="@+id/traffic_type" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Travelling From :"
+        android:id="@+id/origin"
+        android:maxLines="3"
+        android:paddingBottom="5dp"
+        android:layout_below="@+id/traffic_type"
+        android:layout_alignLeft="@+id/percentage_text"
+        android:layout_alignStart="@+id/percentage_text"
+        android:layout_marginTop="44dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Going To : "
+        android:id="@+id/arrival"
+        android:paddingTop="10dp"
+        android:layout_alignLeft="@+id/origin"
+        android:layout_alignStart="@+id/origin"
+        android:layout_below="@+id/origin" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="22sp"
+        android:text="100%"
+        android:gravity="center_vertical|center_horizontal"
+        android:background="@drawable/circular_holder"
+        android:id="@+id/percentage_text"
+        android:layout_below="@+id/arrival"
+        android:layout_alignRight="@+id/traffic_type"
+        android:layout_alignEnd="@+id/traffic_type"
+        android:layout_marginTop="40dp" />
+
+
+</RelativeLayout>

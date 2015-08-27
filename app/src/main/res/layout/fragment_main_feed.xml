@@ -1,0 +1,48 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ibm.project_traffic.Packages.UI.TrendingTrafficFeedFragment"
+    android:background="@color/c_white">
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/swipe_refresh_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/my_recycler_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="vertical" />
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+    <com.github.rahatarmanahmed.cpv.CircularProgressView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/trending_progress"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        app:cpv_animAutostart="true"
+        app:cpv_indeterminate="true"
+        app:cpv_color="@color/c_blue_gray"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        />
+
+    <com.github.clans.fab.FloatingActionButton
+        android:id="@+id/feed_btn_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_pencil"
+        fab:fab_colorNormal="@color/c_green"
+        fab:fab_colorRipple="@color/c_white"
+        fab:fab_label="Trending Feed"
+        android:layout_gravity="right|bottom"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="5dp"
+         />
+</RelativeLayout>

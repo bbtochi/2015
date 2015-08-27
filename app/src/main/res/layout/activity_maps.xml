@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <fragment
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/map"
+    tools:context=".MapsActivity"
+    android:name="com.google.android.gms.maps.SupportMapFragment"/>
+
+    <RelativeLayout
+        android:id="@+id/mLyout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="right|top"
+        >
+    </RelativeLayout>
+
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cardview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:elevation="80dp"
+        android:layout_marginTop="48dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="5dp"
+        card_view:cardBackgroundColor="#CCFFFFFF"
+        card_view:cardCornerRadius="10dp">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="20dp">
+
+                <AutoCompleteTextView
+                    android:id="@+id/start"
+                    android:layout_width="289dp"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@mipmap/ic_starting_pt"
+                    android:background="@android:color/transparent"
+                    android:textColorHint="@color/c_gray"
+                    android:hint=" Enter your location"
+                    android:maxLines="3"
+                    android:inputType="text"/>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/dotted" />
+
+                <AutoCompleteTextView
+                    android:id="@+id/destination"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/transparent"
+                    android:drawableLeft="@mipmap/ic_destination"
+                    android:textColorHint="@color/c_gray"
+                    android:maxLines="2"
+                    android:hint=" Enter your destination"
+                    />
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/getRouteBtn"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"
+                android:layout_alignParentRight="true"
+                android:layout_width="36dp"
+                android:src="@mipmap/ic_send"
+                android:layout_height="36dp"/>
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+    <com.github.clans.fab.FloatingActionMenu
+        android:id="@+id/menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="2dp"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        fab:menu_icon="@mipmap/ic_compass"
+        fab:menu_animationDelayPerItem="0"
+        fab:menu_colorNormal="@color/md_green_600"
+        fab:menu_colorPressed="#2E7D32"
+        fab:menu_colorRipple="#1B5E20"
+        fab:menu_labels_maxLines="2"
+        fab:menu_labels_ellipsize="end"
+        android:layout_gravity="right|bottom"
+        fab:menu_labels_position="left"
+        fab:menu_openDirection="up"
+        fab:menu_showShadow="true"
+        fab:menu_shadowColor="#66000000"
+        fab:menu_shadowRadius="4dp"
+        fab:menu_shadowXOffset="1dp"
+        fab:menu_shadowYOffset="3dp"
+        fab:menu_backgroundColor="@android:color/transparent">
+
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/feed_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginRight="8dp"
+            android:src="@mipmap/ic_feed"
+            fab:fab_colorNormal="@color/md_light_blue_900"
+            fab:fab_colorPressed="@color/c_gray"
+            fab:fab_colorRipple="@color/c_white"
+            fab:fab_label="Trending Feed"/>
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/route_menu_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginRight="8dp"
+            android:src="@mipmap/ic_route"
+            fab:fab_colorNormal="@color/md_amber_400"
+            fab:fab_colorPressed="@color/c_gray"
+            fab:fab_colorRipple="@color/c_white"
+            fab:fab_label="Get Route"/>
+
+    </com.github.clans.fab.FloatingActionMenu>
+
+
+</FrameLayout>

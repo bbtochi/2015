@@ -1,0 +1,91 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:paddingTop="5dp"
+    android:paddingBottom="5dp"
+    tools:context="com.ibm.project_traffic.Packages.Adapters.FeedListAdapter">
+
+    <TextView
+        android:text="@string/username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/username"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textStyle="bold"/>
+
+
+    <com.github.curioustechizen.ago.RelativeTimeTextView
+        android:id="@+id/post_timestamp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:layout_alignParentTop="true"
+        android:text="Show"
+        android:textColor="@color/c_gray"
+        android:layout_gravity="left|right"
+        android:layout_above="@+id/post_details"
+        android:layout_alignRight="@+id/location_details"
+        android:layout_alignEnd="@+id/location_details" />
+
+    <TextView
+        android:text="Post"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:id="@+id/post_details"
+        android:paddingTop="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_below="@+id/username"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:paddingBottom="5dp"
+        android:layout_gravity="left" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_destination"
+        android:paddingLeft="5dp"
+        android:id="@+id/imageView"
+        android:layout_gravity="left"
+        android:layout_below="@+id/post_details"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:paddingBottom="10dp"
+        android:layout_marginBottom="5dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/location_details"
+        android:paddingTop="5dp"
+        android:text="Blah"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_gravity="center"
+        android:textColor="@color/c_gray"
+        android:layout_below="@+id/post_details"
+        android:layout_toRightOf="@+id/imageView"
+        android:layout_toEndOf="@+id/imageView"
+        android:paddingBottom="10dp"
+        android:layout_marginBottom="5dp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/c_quarter_transparent"
+        android:id="@+id/divider"
+        android:layout_below="@+id/imageView"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="1dp"/>
+
+</RelativeLayout>
